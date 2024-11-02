@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Matthew Clonch",
+      "isBand": true,
+      "email": "matthewclonch@email.com"
+    }
+  ],
+  "bands": [],
+  "genres": [
+    {
+      "id": 1,
+      "type": "Rock"
+    },
+    {
+      "id": 2,
+      "type": "Pop"
+    },
+    {
+      "id": 3,
+      "type": "Alternative"
+    },
+    {
+      "id": 4,
+      "type": "Country"
+    },
+    {
+      "id": 5,
+      "type": "Punk"
+    },
+    {
+      "id": 6,
+      "type": "R&B"
+    },
+    {
+      "id": 7,
+      "type": "Hip-Hop"
+    },
+    {
+      "id": 8,
+      "type": "Classical"
+    },
+    {
+      "id": 9,
+      "type": "Blues"
+    },
+    {
+      "id": 10,
+      "type": "Jazz"
+    },
+    {
+      "id": 11,
+      "type": "Electronic"
+    },
+    {
+      "id": 12,
+      "type": "Folk"
+    },
+    {
+      "id": 13,
+      "type": "Bluegrass"
+    },
+    {
+      "id": 14,
+      "type": "Funk"
+    },
+    {
+      "id": 15,
+      "type": "Ska"
+    },
+    {
+      "id": 16,
+      "type": "Indie-Rock"
+    },
+    {
+      "id": 17,
+      "type": "Grunge"
+    }
+  ]
+}
