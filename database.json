@@ -5,9 +5,126 @@
       "name": "Matthew Clonch",
       "isBand": true,
       "email": "matthewclonch@email.com"
+    },
+    {
+      "email": "higbeeJA@email.com",
+      "name": "Jackson Higbee",
+      "isBand": true,
+      "id": 2
+    },
+    {
+      "email": "SmithJ@email.co",
+      "name": "Joe Smith",
+      "isBand": false,
+      "id": 3
+    },
+    {
+      "email": "cmdrshephard@ssnormandy.gov",
+      "name": "John Shephard",
+      "isBand": false,
+      "id": 4
+    },
+    {
+      "email": "doe@john.com",
+      "name": "John Doe",
+      "isBand": false,
+      "id": 5
+    },
+    {
+      "email": "almos@james.com",
+      "name": "James Almos",
+      "isBand": true,
+      "id": 6
+    },
+    {
+      "email": "halsey@tyler.com",
+      "name": "Tyler Halsey",
+      "isBand": true,
+      "id": 7
     }
   ],
-  "bands": [],
+  "bands": [
+    {
+      "userId": 1,
+      "bandName": "Rainbow Kitten Surprise",
+      "description": "As if channeling another dimension where genres simply don’t exist, Rainbow Kitten Surprise finds harmony in unpredictability—weaving together lyrical poetry, hummable melodies, and a rush of instrumental eccentricities. Preceded by tracks \"LOL\" and \"Superstar,\" the North Carolina-bred quartet's forthcoming album LOVE HATE MUSIC BOX—the creative vision of singer/songwriter Ela Melo, guitarists Bozzy Keller and Ethan Goodpaster, and drummer Jess Haney as well as former bassist Charlie Holt—represents a brand-new awakening.",
+      "genreId": 16,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1730584199/profile-pictures/lfaetkkjpsi9q5cuosby.jpg",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "bandName": "CAAMP",
+      "description": "Caamp is an American band from Ohio. The band began as a project between childhood friends Taylor Meier and Evan Westfall, who met at a summer camp while they were middle school students. In 2013 Taylor began playing in coffee shops around Athens while studying at Ohio University. They later added bass player Matt Vinson and Joseph Kavalec on the keyboards.",
+      "genreId": 12,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731448801/profile-pictures/xdkegfytxvt2lno4jkvf.jpg",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "bandName": "Mt. Joy",
+      "description": "When Mt. Joy (singer / guitarist Matt Quinn, guitarist Sam Cooper, bassist Michael Byrnes, drummer Sotiris Eliopoulos, and keyboardist Jackie Miclau) came together to record their sophomore album Rearrange Us, the band was in rough shape — adrift in a miasma of situational and romantic agony, digging themselves out of relationships that had soured in the harsh light of a life permanently spent in a van somewhere between Stockton and Peoria. Not that Mt. Joy wasn’t grateful for the opportunity to live out even the most wayward chapters of the archetypical rock-and-roll narrative.",
+      "genreId": 1,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731947649/profile-pictures/kv2srfknfvaqm1laot9j.jpg",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "bandName": "The Brook & The Bluff",
+      "description": "Fewer bands have had a bigger two years than hometown heroes The Brook and the Bluff. The quartet of Joseph Settine (vocals/guitar), John Canada (drums/vocals), Alec Bolton (guitar/vocals) and Fred Lankford (bass/vocals) has become radically popular among listeners for their use of intricate harmonies and soul that has propelled them to opening slots alongside Judah and the Lion and Noah Kahan and appearances at music festivals such as Shaky Knees, Moon River, and SouthSounds",
+      "genreId": 3,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731948021/profile-pictures/syuknrdq8gg0krzmzagl.jpg",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "bandName": "Wilderado",
+      "description": "Wilderado is an American indie folk band from Tulsa, Oklahoma, United States. The band was first signed to Iamsound Records, but is now signed to Bright Antenna Records. Wilderado's Max Rainer and Tyler Wimpee met through mutual friends in college and started writing songs together in their fifth year after most of their friends had left. They went on a thirty concert tour with Flipturn in 2022, and expanded the tour to include bands Toledo and Michigander. In 2016, the band released their first EP, Misty Shrub. On July 22, 2016, the band released their second EP titled Latigo which amassed over 18 million streams on Spotify.",
+      "genreId": 12,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731948509/profile-pictures/jy4ictcwzgjud2yojiay.jpg",
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "bandName": "99 Neighbors",
+      "description": "99 Neighbors is one of today’s premier indie and alternative rap groups that built a reputation for pushing boundaries in rap by promoting inclusivity, self-love, and creative exploration. The group all connected in 2018 in their native Burlington, Vermont, and has been performing and releasing music since 2019 with their debut album Television and 2021’s follow-up, Wherever You’re Going I Hope It’s Great.",
+      "genreId": 7,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731948987/profile-pictures/vrerqypt7hq3nx0k1ope.jpg",
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "bandName": "Flipturn",
+      "description": "Flipturn, stylized as flipturn, is an American indie rock band from Fernandina Beach, Florida formed in 2015. The band consists of founding members Dillon Basse (vocals), Tristan Duncan (guitar) and Madeline Jarman (bass) who founded the band as high school seniors. After their college years at the University of Florida, they picked up guitarist and synthesizer player Mitch Fountain, and drummer Devon VonBalson.",
+      "genreId": 16,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731949247/profile-pictures/qomhlbwvifklmfvjcqlq.jpg",
+      "id": 14
+    },
+    {
+      "userId": 6,
+      "bandName": "Night Spins",
+      "description": "Garage pop laced with city grit, dark humor, and rock 'n' roll attitude — that's the play-it-on-repeat music that Brooklyn-based band Night Spins is cranking out right now. \n\nBorn out of the American South, the four-piece band melds it’s innate theatricality with influences like Iggy Pop and Modest Mouse for an unrivaled and must see display of contemporary showmanship. ",
+      "genreId": 17,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731949476/profile-pictures/gfxd9uhptvhd6rsyqc3v.jpg",
+      "id": 15
+    },
+    {
+      "userId": 6,
+      "bandName": "KSB",
+      "description": "In 2016, Sutherland released his first album, Down in a Hole, and a music video for \"Not Enough Whiskey\" from the album. The country music songs were written by Sutherland and Jude Cole. The Kiefer Sutherland Band toured in April and May of that year, and debuted at the Grand Ole Opry on June 6, 2016. A 2017 review in The Guardian said, \"you have the first Hollywood hobby act unshackled by convention and with a real shot at greatness.\"",
+      "genreId": 4,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731949931/profile-pictures/vmros6beben1a7320ctc.jpg",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "bandName": "Maddie Diaz",
+      "description": "With Weird Faith, Madi Diaz, who “makes even the most immovable feelings open up with just a little time and space” (Pitchfork), comes up against a problem that has dogged songwriters since time immemorial: how do you write about romance, or love, without making it sentimental or fake? For Diaz, the answer was to explore how anxiety-inducing, if not downright humiliating, falling in love can be. Weird Faith answers these questions bluntly, and Diaz says the record “chronicles a new relationship, but also a new relationship to myself.”",
+      "genreId": 3,
+      "profilePicture": "https://res.cloudinary.com/dxrufjdna/image/upload/c_fill,w_400,h_400,g_face/v1731950507/profile-pictures/imzdd5n6kxkyixziw4v9.jpg",
+      "id": 17
+    }
+  ],
   "genres": [
     {
       "id": 1,
@@ -76,6 +193,319 @@
     {
       "id": 17,
       "type": "Grunge"
+    }
+  ],
+  "venues": [
+    {
+      "id": 1,
+      "name": "Brooklyn Bowl",
+      "capacity": 1200,
+      "description": "Brooklyn Bowl Nashville is the ultimate night out. With its groundbreaking integration of premiere music, 19 lanes of bowling where you can eat, drink, and catch a show, four bars featuring locally crafted beers, and food by the acclaimed Blue Ribbon Restaurant group, Brooklyn Bowl offers concert and casual bowling experiences that you won't find anywhere else."
+    },
+    {
+      "id": 2,
+      "name": "Marathon Music Works",
+      "capacity": 1700,
+      "description": "Host your special event at Marathon Music Works in our industrial chic warehouse style venue; equally suited for receptions, fundraisers, corporate dinners and events, video shoots, trade shows, and conferences. Originally built in the early 1900s, Marathon Music Works has been restored and adapted as an ideal blank space for your custom event!"
+    },
+    {
+      "id": 3,
+      "name": "Nashville Municipal Auditorium",
+      "capacity": 9700,
+      "description": "The Nashville Municipal Auditorium is an event rental hall in Downtown Nashville. We have been a staple event space in Nashville since we opened our doors in 1962. We host many different events such as concerts, banquets, trade shows, and sporting events."
+    },
+    {
+      "id": 4,
+      "name": "Rudys Jazz Room",
+      "capacity": 75,
+      "description": "Nashville's premiere jazz club delivers world-class live music, New Orleans food, local brews, and prohibition era cocktails in an intimate and casual setting. The historic space is furnished with Persian rugs, armchairs, and colorful Moroccan lights giving it the warm feel of a speakeasy."
+    },
+    {
+      "id": 5,
+      "name": "The Twelve Thirty Club",
+      "capacity": 1000,
+      "description": "The Twelve Thirty Club is a progressive three-story experience that is headlined by food & music. Featuring an elevated Honky Tonk on the first level, followed by a dapper-as-hell Supper Club on level two, which leads out to a lush & airy rooftop bar with the city’s best views of Broadway."
+    },
+    {
+      "id": 6,
+      "name": "Ascend Amphitheater",
+      "capacity": 6800,
+      "description": "After opening in the summer of 2015 in downtown Nashville, Ascend Amphitheater has become one of the best outdoor live music venues in the country. Featuring a beautiful open-air setting with soaring views of the Nashville skyline and the Cumberland River, Ascend Amphitheater has proven time and again to be a preferred venue for both fans and artists alike."
+    },
+    {
+      "id": 7,
+      "name": "6th and Peabody",
+      "capacity": 1500,
+      "description": "We are a multi-faceted entertainment space offering Yee Haw beer on draft, Ole Smoky cocktails, retail bottle shop, gift shop, multiple food options, live music, tours, games, and jumbo sized televisions."
+    },
+    {
+      "id": 8,
+      "name": "Cannery Hall",
+      "capacity": 1300,
+      "description": "Now open, Cannery Hall is the largest independent music venue complex in Nashville. A proud member of the National Independent Venue Association (NIVA), Cannery Hall’s multiple stages will be able to host musicians and audiences of varying size."
+    },
+    {
+      "id": 9,
+      "name": "The basement East",
+      "capacity": 575,
+      "description": "At The Basement East, we proudly celebrate a harmonious blend of voices, cultures, and identities. We’re a badass team where every member brings their unique perspective, making us stronger together. We amplify opportunities for all, ensuring a safe, supportive and inclusive space for growth and creativity."
+    },
+    {
+      "id": 10,
+      "name": "EXIT/IN",
+      "capacity": 500,
+      "description": "Within Nashville's deep musical history, few venues have had as rich a legacy as Exit/In. Over its 50+ years, it has played host to a staggering array of talent, from rising local acts to international superstars."
+    },
+    {
+      "id": 11,
+      "name": "The Bluebird Cafe",
+      "capacity": 90,
+      "description": "Lots of Nashville music royalty got their start at the Bluebird (like Taylor Swift and Garth Brooks), and it has remained relevant ever since. The listening room-style venue is owned by a non-profit, and all of the ticket proceeds go to the talent. "
+    },
+    {
+      "id": 12,
+      "name": "Ryman Auditorium",
+      "capacity": 2362,
+      "description": "No other Nashville venue can quite compare to the legendary nostalgia at the Ryman Auditorium. For more than a century, the converted tabernacle has been filling its pews and placing on the pulpit the biggest names in music—from Chris Stapleton to the Foo Fighters."
+    }
+  ],
+  "shows": [
+    {
+      "bandId": 1,
+      "venueId": 6,
+      "date": "2024-11-06",
+      "id": 8
+    },
+    {
+      "bandId": 8,
+      "venueId": 7,
+      "date": "2024-11-09",
+      "id": 10
+    },
+    {
+      "bandId": 1,
+      "venueId": 1,
+      "date": "2024-11-21",
+      "id": 11
+    },
+    {
+      "bandId": 1,
+      "venueId": 1,
+      "date": "2024-11-22",
+      "id": 12
+    },
+    {
+      "bandId": 17,
+      "venueId": 1,
+      "date": "2024-11-19",
+      "id": 13
+    },
+    {
+      "bandId": 8,
+      "venueId": 2,
+      "date": "2024-11-16",
+      "id": 14
+    },
+    {
+      "bandId": 8,
+      "venueId": 12,
+      "date": "2024-11-15",
+      "id": 15
+    },
+    {
+      "bandId": 17,
+      "venueId": 9,
+      "date": "2024-11-30",
+      "id": 16
+    },
+    {
+      "bandId": 10,
+      "venueId": 3,
+      "date": "2024-11-07",
+      "id": 17
+    },
+    {
+      "bandId": 10,
+      "venueId": 1,
+      "date": "2024-11-15",
+      "id": 18
+    },
+    {
+      "bandId": 11,
+      "venueId": 10,
+      "date": "2024-11-02",
+      "id": 19
+    },
+    {
+      "bandId": 11,
+      "venueId": 8,
+      "date": "2024-11-04",
+      "id": 20
+    },
+    {
+      "bandId": 11,
+      "venueId": 11,
+      "date": "2024-11-17",
+      "id": 21
+    },
+    {
+      "bandId": 12,
+      "venueId": 4,
+      "date": "2024-11-02",
+      "id": 22
+    },
+    {
+      "bandId": 12,
+      "venueId": 8,
+      "date": "2024-11-16",
+      "id": 23
+    },
+    {
+      "bandId": 12,
+      "venueId": 5,
+      "date": "2024-11-29",
+      "id": 24
+    },
+    {
+      "bandId": 13,
+      "venueId": 1,
+      "date": "2024-11-16",
+      "id": 25
+    },
+    {
+      "bandId": 13,
+      "venueId": 5,
+      "date": "2024-11-01",
+      "id": 26
+    },
+    {
+      "bandId": 13,
+      "venueId": 10,
+      "date": "2024-11-30",
+      "id": 27
+    },
+    {
+      "bandId": 14,
+      "venueId": 12,
+      "date": "2024-11-14",
+      "id": 28
+    },
+    {
+      "bandId": 14,
+      "venueId": 2,
+      "date": "2024-11-01",
+      "id": 29
+    },
+    {
+      "bandId": 15,
+      "venueId": 9,
+      "date": "2024-11-09",
+      "id": 30
+    },
+    {
+      "bandId": 15,
+      "venueId": 10,
+      "date": "2024-11-15",
+      "id": 31
+    },
+    {
+      "bandId": 16,
+      "venueId": 3,
+      "date": "2024-11-01",
+      "id": 32
+    },
+    {
+      "bandId": 16,
+      "venueId": 6,
+      "date": "2024-11-28",
+      "id": 33
+    },
+    {
+      "bandId": 8,
+      "venueId": 6,
+      "date": "2024-11-02",
+      "id": 34
+    }
+  ],
+  "fanFavoriteBands": [
+    {
+      "userId": 3,
+      "bandId": 1,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "bandId": 1,
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "bandId": 8,
+      "id": 7
+    }
+  ],
+  "fanFavoriteVenues": [
+    {
+      "userId": 3,
+      "venueId": 9,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "venueId": 1,
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "venueId": 7,
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "venueId": 4,
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "venueId": 1,
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "venueId": 6,
+      "id": 8
+    }
+  ],
+  "fanFavoriteGenres": [
+    {
+      "userId": 5,
+      "genreId": 1,
+      "id": 1
+    },
+    {
+      "userId": 5,
+      "genreId": 3,
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "genreId": 16,
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "genreId": 10,
+      "id": 7
+    },
+    {
+      "userId": 4,
+      "genreId": 9,
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "genreId": 4,
+      "id": 12
     }
   ]
 }
